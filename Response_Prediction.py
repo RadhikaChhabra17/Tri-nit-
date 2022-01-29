@@ -5,9 +5,9 @@ import random
 import string
 import numpy as np
 
-model = keras.models.load_model('chatbox_model.h5')
+model = keras.models.load_model('Models/chatbox_model.h5')
 
-data = pickle.load(open("chatbox_model.pkl", "rb"))
+data = pickle.load(open("Models/chatbox_model.pkl", "rb"))
 encoder = data['encoder']
 tokenizer = data['tokenizer']
 responses = data['responses']
