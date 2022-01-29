@@ -154,7 +154,7 @@
         "what should I do",
         "I'm afraid and don't know what to do"
       ],
-      "responses": ["Ask any questions you have about COVID-19 or you can visit the WHO website at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"]
+      "responses": ["you can ask me any questions you have about COVID-19 or you can visit the WHO website at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"]
     },
     {
       "tag": "testing_information",
@@ -201,7 +201,7 @@
         "Which countries are affected by covid 19?",
         "Which countries are high risk to travel to?"
       ],
-      "responses": ["Refer to this websites for a list of high risk countries https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html"]
+      "responses": ["You should avoid travelling to countries if you aren't vaccinated in general but if you are vaccinated it is fine to travel to all countries that isn't on the level 3 list. for more information on risk assesment levels refer to this websites for a list of high risk countries https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html"]
     },
     {
       "tag": "quarantine_living_with_others",
@@ -247,7 +247,7 @@
         "I just travelled. What do I do?",
         "do i need to stay home"
       ],
-      "responses": ["Use https://www.goindigo.in/information/state-regulations.html for information related to travel restrictions"] 
+      "responses": ["There are travel restriction to states that have a high risk rating. Refer to this website for more information  https://www.goindigo.in/information/state-regulations.html for information related to travel restrictions"] 
     },
     {
       "tag": "treatment_info",
@@ -639,7 +639,7 @@
         "How is flu different from corpnavirus",
         "How is corona virus different than SARS?"
       ],
-      "responses": ["Refer to https://www.cdc.gov/flu/about/flu-vs-coronavirus.html for more information"]
+      "responses": ["If a person has COVID-19, it could take them longer to experience symptoms than if they have flu. If a person has COVID-19, they could be contagious for a longer time than if they have flu."]
     },
     {
       "tag": "quarantine_eligibility",
