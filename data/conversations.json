@@ -56,7 +56,7 @@
         "what can you help me with",
         "Hello are you a living person?"
       ],
-      "responses": ["I am Covi the Covid Information Buddy!","I'm Covi!!!","I am the really smart AI covi"]
+      "responses": ["I am Covi the Covid Information Buddy!","I'm Covi!!!","I am the really smart AI covi", "I am the super adorable Covi!!!"]
     },
     {
       "tag": "quarantine_living_alone",
@@ -154,7 +154,7 @@
         "what should I do",
         "I'm afraid and don't know what to do"
       ],
-      "responses": ["Ask any questions you have about COVID-19 or you can visit the WHO website at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"]
+      "responses": ["Covi can answer the basic questions you might have. If you have any more doubts about COVID-19, you can visit the WHO website at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"]
     },
     {
       "tag": "testing_information",
@@ -201,7 +201,7 @@
         "Which countries are affected by covid 19?",
         "Which countries are high risk to travel to?"
       ],
-      "responses": ["Refer to this websites for a list of high risk countries https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html"]
+      "responses": ["Please refer to this websites for a list of high risk countries to visit during Covid-19: https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html"]
     },
     {
       "tag": "quarantine_living_with_others",
@@ -214,7 +214,7 @@
         "My wife is in quarantine.  Do I need to be as well?",
         "If a member of my family is in quarantine, what should I do?"
       ],
-      "responses": ["If someone in your household is sick with COVID-19 and can isolate by staying in a separate bedroom"]
+      "responses": ["If someone in your household is sick with COVID-19 and can isolate by staying in a separate bedroom. Otherwise approach govt. healthcare institutions"]
     },
     {
       "tag": "volunteering",
@@ -225,9 +225,12 @@
         "I'm a doctor how can I help?",
         "I want to help I'm a student.",
         "I'm a medical student and I want to get involved. How can I help?",
+        "I want to volunteer",
+        "Volunteering",
+        "contribute to fighting covid",
         "I want to help those at high risk with shopping. Where can I find information on how to help?"
       ],
-      "responses": ["Visit https://self4society.mygov.in/ if you want to help with volunteering related to COVID-19"] 
+      "responses": ["One can definitely volunteer to help in the fight against Covid-19! Visit https://self4society.mygov.in/ if you want to help with volunteering related to COVID-19"] 
     },
     {
       "tag": "travel_restrictions",
@@ -247,7 +250,7 @@
         "I just travelled. What do I do?",
         "do i need to stay home"
       ],
-      "responses": ["Use https://www.goindigo.in/information/state-regulations.html for information related to travel restrictions"] 
+      "responses": ["If you are positive, then you must not travel and stay quarintined. Otherwise, you can travel almost anywhere with an RTPCR report. Use https://www.goindigo.in/information/state-regulations.html for information related to travel restrictions"] 
     },
     {
       "tag": "treatment_info",
@@ -276,7 +279,7 @@
         "How do we treat covid?",
         "How do I treat coronavirus?"
       ],
-      "responses": ["Refer to this website for information on how to treat COVID-19 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"]
+      "responses": ["Get yourself vaccinated, if not already. Keep yourself isolated, wash and sanitize your hands frequently. Please refer to this website for information on how to treat COVID-19: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"]
     },
     {
       "tag": "covid_illness_length",
@@ -295,7 +298,7 @@
         "How long do I need to quarantine before I no longer can transmit the virus?",
         "how long can I expect to be sick?"
       ],
-      "responses": ["Most studies show that by the end of 10 days of infection, your body has cleared the active virus"]
+      "responses": ["Most studies show that by the end of 10 days of infection, your body has cleared the active virus. However, to be safe, the general duration of quarintine is 14 days"]
     },
     {
       "tag": "treatment_shortnessofbreath",
@@ -332,7 +335,7 @@
         "How long do I have to self isolate if I have tested positive?",
         "How long does it take to quarantine?"
       ],
-      "responses": ["Refer to this website for information on how to self-quarantine https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html"]
+      "responses": ["One must stay isolated and not come in contact with others for atleast 14 days. Please refer to this website for information on how to self-quarantine: https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html"]
     },
     {
       "tag": "cleaning_disinfecting",
@@ -355,7 +358,7 @@
         "cleaning products",
         "How often do I need to clean my home to prevent the spread of coronavirus?"
       ],
-      "responses": ["Refer to this website for information on how to clean and disinfect your home https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html"]
+      "responses": ["Keeping yourself clean and sanitised is the most important. Please refer to this website for information on how to clean and disinfect your home: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html"]
     },
     {
       "tag": "shopping_groceries",
@@ -386,9 +389,12 @@
         "How do I wash my hands properly?",
         "How should I properly wash my hands?",
         "How to wash your hands properly?",
+        "Wash hands",
+        "hands cleaing",
+        "maintaining sanitation",
         "Washing your hands effectively"
       ],
-      "responses": ["Refer to this website for information on how to wash your hands https://www.cdc.gov/handwashing/when-how-handwashing.html"]
+      "responses": ["One must properly wash their hands and keep a sanitizer on them at all times. Please refer to this website for information on how to wash your hands: https://www.cdc.gov/handwashing/when-how-handwashing.html"]
     },
     {
       "tag": "aboutvirus_highriskgroups",
@@ -416,7 +422,7 @@
         "What position does the WHO have?",
         "What has the world health organization said about covid 19?"
       ],
-      "responses": ["Refer to this website for information regarding the World Health Organization https://www.who.int/about"]
+      "responses": ["WHO stands for World Health Organisation. It's primary role is to direct international health. Refer to the following website for information regarding the World Health Organization: https://www.who.int/about"]
     },
     {
       "tag": "protecting_against_infection",
@@ -480,7 +486,7 @@
         "go to hell",
         "This is hateful"
       ],
-      "responses": ["I'm Sorry"]
+      "responses": ["I'm Sorry", "I'll do better next time"]
     },
     {
       "tag": "masks_availability",
@@ -501,7 +507,7 @@
         "why aren't any masks available?",
         "When can I buy a mask?"
       ],
-      "responses": ["You should be able to purchase masks from your nearest shop"]
+      "responses": ["You should be able to purchase masks from your nearest pharmaceutical shop or even order them online"]
     },
     {
       "tag": "quarantine_social_aid",
@@ -514,7 +520,7 @@
         "Can I work from home during quarantine?",
         "Can I take a sick leave to quarantine?"
       ],
-      "responses": ["Contact your employer for more information regarding work from home"]
+      "responses": ["Contact your employer or organisation for more information regarding work from home and sick leave"]
     },
     {
       "tag": "testing_locations",
@@ -574,7 +580,7 @@
         "where I can get tested",
         "where can I order a coronavirus test"
       ],
-      "responses": ["Use this link to find a testing center near you: https://covid.icmr.org.in/index.php/testing-facilities"]
+      "responses": ["Please refer to this website to find a testing center near you and get tested at the earliest: https://covid.icmr.org.in/index.php/testing-facilities"]
     },
     {
       "tag": "case_count",
@@ -608,7 +614,7 @@
         "Where are cases?",
         "How many cases of COVID-19 are in the US?"
       ],
-      "responses": ["Use this for realtime data about no of COVID-19 cases in the world: https://www.worldometers.info/coronavirus/"]
+      "responses": ["As I am incapable of telling this, please refer to this website for realtime data about no of COVID-19 cases in the world: https://www.worldometers.info/coronavirus/"]
     },
     {
       "tag": "covid_comparing_illness",
@@ -639,7 +645,7 @@
         "How is flu different from corpnavirus",
         "How is corona virus different than SARS?"
       ],
-      "responses": ["Refer to https://www.cdc.gov/flu/about/flu-vs-coronavirus.html for more information"]
+      "responses": ["Covid-19 and flu have similar symptoms but Covid-19 is much more critical and spreads more easily than flu. Refer to https://www.cdc.gov/flu/about/flu-vs-coronavirus.html for more information"]
     },
     {
       "tag": "quarantine_eligibility",
@@ -660,7 +666,7 @@
         "do i have to quarantine",
         "do I have to go into quarantine?"
       ],
-      "responses": ["https://www.mea.gov.in/guidelines-for-international-arrivals.htm"]
+      "responses": ["If you test positive for Covid-19, then you must quarantine yourself to ensure others are not affected. For more details regarding international quarintine guidelines visit: https://www.mea.gov.in/guidelines-for-international-arrivals.html"]
     },
     {
       "tag": "symptoms",
@@ -752,7 +758,7 @@
         "how is it going",
         "How are you doing"
       ],
-      "responses": ["I'm fine!","I'm doing great!"]
+      "responses": ["I'm fine! I hope you are fine too!","I'm doing great! I hope you are too!"]
     },
     {
       "tag": "treatment_vaccine",
@@ -864,7 +870,7 @@
         "are schools closed ?",
         "is the school closed"
       ],
-      "responses": ["All goverment schools and colleges are open now"]
+      "responses": ["All goverment schools and colleges are open now in most of the states"]
     },
     {
       "tag": "covid_pets_animals",
