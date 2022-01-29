@@ -10,7 +10,9 @@
         "Are quarantined visits allowed?",
         "Can I receive visits during quarantine?"
       ],
-      "responses": ["If you are in quarantine, you are not allowed to visit anyone."]
+      "responses": [
+        "If you are in quarantine, you are not allowed to visit anyone."
+      ]
     },
     {
       "tag": "outside_activities",
@@ -42,7 +44,9 @@
         "What does a pandemic mean?",
         "The WHO has declared a pandemic in the world. What does this mean?"
       ],
-      "responses": ["A pandamic is an outbreak of a disease that occurs over a wide geographic area (such as multiple countries or continents) and typically affects a significant proportion of the population"]
+      "responses": [
+        "A pandamic is an outbreak of a disease that occurs over a wide geographic area (such as multiple countries or continents) and typically affects a significant proportion of the population"
+      ]
     },
     {
       "tag": "whoareyou",
@@ -56,7 +60,12 @@
         "what can you help me with",
         "Hello are you a living person?"
       ],
-      "responses": ["I am Covi the Covid Information Buddy!","I'm Covi!!!","I am the really smart AI covi", "I am the super adorable Covi!!!"]
+      "responses": [
+        "I am Covi the Covid Information Buddy!",
+        "I'm Covi!!!",
+        "I am the really smart AI covi",
+        "I am the super adorable Covi!!!"
+      ]
     },
     {
       "tag": "quarantine_living_alone",
@@ -69,12 +78,14 @@
         "What if I live by myself and I'm in quarantine?",
         "What should I do if I live by myself and I'm in quarantine?"
       ],
-      "responses": ["If you’re in self-isolation, you should really not be outside except for your own property, call a friend or family member to get your groceries"]
+      "responses": [
+        "If you’re in self-isolation, you should really not be outside except for your own property, call a friend or family member to get your groceries"
+      ]
     },
     {
       "tag": "general_thankyou",
       "patterns": ["thanks", "Thank you"],
-      "responses": ["Welcome!","My Pleasure","Glad to be of Help!"]
+      "responses": ["Welcome!", "My Pleasure", "Glad to be of Help!"]
     },
     {
       "tag": "go_hospital_see_doctor",
@@ -102,7 +113,9 @@
         "When should I go to the doctor?",
         "When should I go to the hospital?"
       ],
-      "responses": ["Look for emergency warning signs for COVID-19. If someone is showing any of these signs, seek emergency medical care immediately: Trouble breathing, Persistent pain or pressure in the chest,  Inability to wake or stay awake, Pale, gray, or blue-colored skin, lips, or nail beds, depending on skin tone"]
+      "responses": [
+        "Look for emergency warning signs for COVID-19. If someone is showing any of these signs, seek emergency medical care immediately: Trouble breathing, Persistent pain or pressure in the chest,  Inability to wake or stay awake, Pale, gray, or blue-colored skin, lips, or nail beds, depending on skin tone"
+      ]
     },
     {
       "tag": "yes",
@@ -142,7 +155,9 @@
         "what is covid19",
         "What is COVID?"
       ],
-      "responses": ["Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus."]
+      "responses": [
+        "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus."
+      ]
     },
     {
       "tag": "general_help",
@@ -154,7 +169,9 @@
         "what should I do",
         "I'm afraid and don't know what to do"
       ],
-      "responses": ["Covi can answer the basic questions you might have. If you have any more doubts about COVID-19, you can visit the WHO website at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"]
+      "responses": [
+        "Covi can answer the basic questions you might have. If you have any more doubts about COVID-19, you can visit the WHO website at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+      ]
     },
     {
       "tag": "testing_information",
@@ -188,7 +205,9 @@
         "should i get tested if I do not have symptoms but think I've been exposed?",
         "Should I get tested for COVID-19?"
       ],
-      "responses": ["Get a PCR test as soon as possible If you've been in close contact with someone who's tested positive or if you have any of these symptoms, even if mild: a high temperature a new, continuous cough a loss or change to your sense of smell or taste. "]
+      "responses": [
+        "Get a PCR test as soon as possible If you've been in close contact with someone who's tested positive or if you have any of these symptoms, even if mild: a high temperature a new, continuous cough a loss or change to your sense of smell or taste. "
+      ]
     },
     {
       "tag": "travel_risk_countries",
@@ -201,7 +220,9 @@
         "Which countries are affected by covid 19?",
         "Which countries are high risk to travel to?"
       ],
-      "responses": ["Please refer to this websites for a list of high risk countries to visit during Covid-19: https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html"]
+      "responses": [
+        "Please refer to this websites for a list of high risk countries to visit during Covid-19: https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html"
+      ]
     },
     {
       "tag": "quarantine_living_with_others",
@@ -214,7 +235,9 @@
         "My wife is in quarantine.  Do I need to be as well?",
         "If a member of my family is in quarantine, what should I do?"
       ],
-      "responses": ["If someone in your household is sick with COVID-19 and can isolate by staying in a separate bedroom. Otherwise approach govt. healthcare institutions"]
+      "responses": [
+        "If someone in your household is sick with COVID-19 and can isolate by staying in a separate bedroom. Otherwise approach govt. healthcare institutions"
+      ]
     },
     {
       "tag": "volunteering",
@@ -230,7 +253,9 @@
         "contribute to fighting covid",
         "I want to help those at high risk with shopping. Where can I find information on how to help?"
       ],
-      "responses": ["One can definitely volunteer to help in the fight against Covid-19! Visit https://self4society.mygov.in/ if you want to help with volunteering related to COVID-19"] 
+      "responses": [
+        "One can definitely volunteer to help in the fight against Covid-19! Visit https://self4society.mygov.in/ if you want to help with volunteering related to COVID-19"
+      ]
     },
     {
       "tag": "travel_restrictions",
@@ -250,7 +275,9 @@
         "I just travelled. What do I do?",
         "do i need to stay home"
       ],
-      "responses": ["If you are positive, then you must not travel and stay quarintined. Otherwise, you can travel almost anywhere with an RTPCR report. Use https://www.goindigo.in/information/state-regulations.html for information related to travel restrictions"] 
+      "responses": [
+        "If you are positive, then you must not travel and stay quarintined. Otherwise, you can travel almost anywhere with an RTPCR report. Use https://www.goindigo.in/information/state-regulations.html for information related to travel restrictions"
+      ]
     },
     {
       "tag": "treatment_info",
@@ -279,7 +306,9 @@
         "How do we treat covid?",
         "How do I treat coronavirus?"
       ],
-      "responses": ["Get yourself vaccinated, if not already. Keep yourself isolated, wash and sanitize your hands frequently. Please refer to this website for information on how to treat COVID-19: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"]
+      "responses": [
+        "Get yourself vaccinated, if not already. Keep yourself isolated, wash and sanitize your hands frequently. Please refer to this website for information on how to treat COVID-19: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
+      ]
     },
     {
       "tag": "covid_illness_length",
@@ -298,7 +327,9 @@
         "How long do I need to quarantine before I no longer can transmit the virus?",
         "how long can I expect to be sick?"
       ],
-      "responses": ["Most studies show that by the end of 10 days of infection, your body has cleared the active virus. However, to be safe, the general duration of quarintine is 14 days"]
+      "responses": [
+        "Most studies show that by the end of 10 days of infection, your body has cleared the active virus. However, to be safe, the general duration of quarintine is 14 days"
+      ]
     },
     {
       "tag": "treatment_shortnessofbreath",
@@ -308,7 +339,9 @@
         "how do I know if I'm suffering from shortness of breath",
         "What does breathlessness look like"
       ],
-      "responses": ["Shortness of breath can have causes that aren't due to underlying disease. Examples include exercise, altitude, tight clothing, a prolonged period of bed rest or a sedentary lifestyle. Avoiding smoking, secondhand smoke and areas with high air pollution or elevations over 5,000 feet may help ease shortness of breath."]
+      "responses": [
+        "Shortness of breath can have causes that aren't due to underlying disease. Examples include exercise, altitude, tight clothing, a prolonged period of bed rest or a sedentary lifestyle. Avoiding smoking, secondhand smoke and areas with high air pollution or elevations over 5,000 feet may help ease shortness of breath."
+      ]
     },
     {
       "tag": "quarantine_what_to_do",
@@ -335,7 +368,9 @@
         "How long do I have to self isolate if I have tested positive?",
         "How long does it take to quarantine?"
       ],
-      "responses": ["One must stay isolated and not come in contact with others for atleast 14 days. Please refer to this website for information on how to self-quarantine: https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html"]
+      "responses": [
+        "One must stay isolated and not come in contact with others for atleast 14 days. Please refer to this website for information on how to self-quarantine: https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html"
+      ]
     },
     {
       "tag": "cleaning_disinfecting",
@@ -358,7 +393,9 @@
         "cleaning products",
         "How often do I need to clean my home to prevent the spread of coronavirus?"
       ],
-      "responses": ["Keeping yourself clean and sanitised is the most important. Please refer to this website for information on how to clean and disinfect your home: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html"]
+      "responses": [
+        "Keeping yourself clean and sanitised is the most important. Please refer to this website for information on how to clean and disinfect your home: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html"
+      ]
     },
     {
       "tag": "shopping_groceries",
@@ -380,7 +417,9 @@
         "are grocery stores still open",
         "Am I allowed to go to the grocery store?"
       ],
-      "responses": ["As long as you do not have symptoms of COVID-19, you can shop at any grocery store while wearing a mask. If you have symptoms, you should visit a COVID-19 testing center or call your local health department."]
+      "responses": [
+        "As long as you do not have symptoms of COVID-19, you can shop at any grocery store while wearing a mask. If you have symptoms, you should visit a COVID-19 testing center or call your local health department."
+      ]
     },
     {
       "tag": "prevention_howto_wash_hands",
@@ -394,7 +433,9 @@
         "maintaining sanitation",
         "Washing your hands effectively"
       ],
-      "responses": ["One must properly wash their hands and keep a sanitizer on them at all times. Please refer to this website for information on how to wash your hands: https://www.cdc.gov/handwashing/when-how-handwashing.html"]
+      "responses": [
+        "One must properly wash their hands and keep a sanitizer on them at all times. Please refer to this website for information on how to wash your hands: https://www.cdc.gov/handwashing/when-how-handwashing.html"
+      ]
     },
     {
       "tag": "aboutvirus_highriskgroups",
@@ -411,7 +452,9 @@
         "What is the risk of covid for pregnant women?",
         "I have cancer am I at risk of coronavirus?"
       ],
-      "responses": ["People of any age can catch COVID-19 . But it most commonly affects middle-aged and older adults. The risk of developing dangerous symptoms increases with age, with those who are age 85 and older are at the highest risk of serious symptoms."]
+      "responses": [
+        "People of any age can catch COVID-19 . But it most commonly affects middle-aged and older adults. The risk of developing dangerous symptoms increases with age, with those who are age 85 and older are at the highest risk of serious symptoms."
+      ]
     },
     {
       "tag": "globalcovid_who",
@@ -422,7 +465,9 @@
         "What position does the WHO have?",
         "What has the world health organization said about covid 19?"
       ],
-      "responses": ["WHO stands for World Health Organisation. It's primary role is to direct international health. Refer to the following website for information regarding the World Health Organization: https://www.who.int/about"]
+      "responses": [
+        "WHO stands for World Health Organisation. It's primary role is to direct international health. Refer to the following website for information regarding the World Health Organization: https://www.who.int/about"
+      ]
     },
     {
       "tag": "protecting_against_infection",
@@ -470,7 +515,9 @@
         "How to avoid catching covid-19.",
         "How do I avoid covid-19?"
       ],
-      "responses": ["To prevent the spread of COVID-19: Maintain a safe distance from others (at least 1 metre), even if they don’t appear to be sick. Wear a mask in public, especially indoors or when physical distancing is not possible. Choose open, well-ventilated spaces over closed ones. Open a window if indoors. Clean your hands often. Use soap and water, or an alcohol-based hand rub. Get vaccinated when it’s your turn. Follow local guidance about vaccination. Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze. Stay home if you feel unwell."]
+      "responses": [
+        "To prevent the spread of COVID-19: Maintain a safe distance from others (at least 1 metre), even if they don’t appear to be sick. Wear a mask in public, especially indoors or when physical distancing is not possible. Choose open, well-ventilated spaces over closed ones. Open a window if indoors. Clean your hands often. Use soap and water, or an alcohol-based hand rub. Get vaccinated when it’s your turn. Follow local guidance about vaccination. Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze. Stay home if you feel unwell."
+      ]
     },
     {
       "tag": "about_hate",
@@ -507,7 +554,9 @@
         "why aren't any masks available?",
         "When can I buy a mask?"
       ],
-      "responses": ["You should be able to purchase masks from your nearest pharmaceutical shop or even order them online"]
+      "responses": [
+        "You should be able to purchase masks from your nearest pharmaceutical shop or even order them online"
+      ]
     },
     {
       "tag": "quarantine_social_aid",
@@ -520,7 +569,9 @@
         "Can I work from home during quarantine?",
         "Can I take a sick leave to quarantine?"
       ],
-      "responses": ["Contact your employer or organisation for more information regarding work from home and sick leave"]
+      "responses": [
+        "Contact your employer or organisation for more information regarding work from home and sick leave"
+      ]
     },
     {
       "tag": "testing_locations",
@@ -580,7 +631,9 @@
         "where I can get tested",
         "where can I order a coronavirus test"
       ],
-      "responses": ["Please refer to this website to find a testing center near you and get tested at the earliest: https://covid.icmr.org.in/index.php/testing-facilities"]
+      "responses": [
+        "Please refer to this website to find a testing center near you and get tested at the earliest: https://covid.icmr.org.in/index.php/testing-facilities"
+      ]
     },
     {
       "tag": "case_count",
@@ -614,7 +667,9 @@
         "Where are cases?",
         "How many cases of COVID-19 are in the US?"
       ],
-      "responses": ["As I am incapable of telling this, please refer to this website for realtime data about no of COVID-19 cases in the world: https://www.worldometers.info/coronavirus/"]
+      "responses": [
+        "As I am incapable of telling this, please refer to this website for realtime data about no of COVID-19 cases in the world: https://www.worldometers.info/coronavirus/"
+      ]
     },
     {
       "tag": "covid_comparing_illness",
@@ -645,7 +700,9 @@
         "How is flu different from corpnavirus",
         "How is corona virus different than SARS?"
       ],
-      "responses": ["Covid-19 and flu have similar symptoms but Covid-19 is much more critical and spreads more easily than flu. Refer to https://www.cdc.gov/flu/about/flu-vs-coronavirus.html for more information"]
+      "responses": [
+        "Covid-19 and flu have similar symptoms but Covid-19 is much more critical and spreads more easily than flu. Refer to https://www.cdc.gov/flu/about/flu-vs-coronavirus.html for more information"
+      ]
     },
     {
       "tag": "quarantine_eligibility",
@@ -666,7 +723,9 @@
         "do i have to quarantine",
         "do I have to go into quarantine?"
       ],
-      "responses": ["If you test positive for Covid-19, then you must quarantine yourself to ensure others are not affected. For more details regarding international quarintine guidelines visit: https://www.mea.gov.in/guidelines-for-international-arrivals.html"]
+      "responses": [
+        "If you test positive for Covid-19, then you must quarantine yourself to ensure others are not affected. For more details regarding international quarintine guidelines visit: https://www.mea.gov.in/guidelines-for-international-arrivals.html"
+      ]
     },
     {
       "tag": "symptoms",
@@ -748,7 +807,9 @@
         "What are the symptoms of covid?",
         "what are the symptoms"
       ],
-      "responses": ["Common symptoms in fever, cough, tiredness, loss of taste and smell. Refer to this website for more information regarding symptoms of Covid-19: https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html"]
+      "responses": [
+        "Common symptoms is fever, cough, tiredness, loss of taste and smell. Refer to this website for more information regarding symptoms of Covid-19: https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html"
+      ]
     },
     {
       "tag": "about_anezka_howareyou",
@@ -758,7 +819,10 @@
         "how is it going",
         "How are you doing"
       ],
-      "responses": ["I'm fine! I hope you are fine too!","I'm doing great! I hope you are too!"]
+      "responses": [
+        "I'm fine! I hope you are fine too!",
+        "I'm doing great! I hope you are too!"
+      ]
     },
     {
       "tag": "treatment_vaccine",
@@ -777,7 +841,9 @@
         "Is there a vaccine for the coronavirus?",
         "is there a vaccine for Covid-19?"
       ],
-      "responses": ["Yes, Covid-19 has a vaccine. Please register at https://www.cowin.gov.in/ for the vaccine at the earliest"]
+      "responses": [
+        "Yes, Covid-19 has a vaccine. Please register at https://www.cowin.gov.in/ for the vaccine at the earliest"
+      ]
     },
     {
       "tag": "aboutvirus_transmission",
@@ -806,7 +872,9 @@
         "How contagious is COVID-19?",
         "How can I get infected?"
       ],
-      "responses": ["COVID-19 transmits when people breathe in air contaminated by droplets and small airborne particles. The risk of breathing these in is highest when people are in close proximity, but they can be inhaled over longer distances, particularly indoors."]
+      "responses": [
+        "COVID-19 transmits when people breathe in air contaminated by droplets and small airborne particles. The risk of breathing these in is highest when people are in close proximity, but they can be inhaled over longer distances, particularly indoors."
+      ]
     },
     {
       "tag": "school_shutdown",
@@ -870,7 +938,9 @@
         "are schools closed ?",
         "is the school closed"
       ],
-      "responses": ["All goverment schools and colleges are open now in most of the states"]
+      "responses": [
+        "All goverment schools and colleges are open now in most of the states"
+      ]
     },
     {
       "tag": "covid_pets_animals",
@@ -890,7 +960,9 @@
         "Can my pets carry the virus?",
         "Can I get corona virus from my pet?"
       ],
-      "responses": ["Reports of animals infected with SARS-CoV-2 have been documented around the world. Most of these animals became infected after contact with people with COVID-19, including owners, caretakers, or others who were in close contact."]
+      "responses": [
+        "Reports of animals infected with SARS-CoV-2 have been documented around the world. Most of these animals became infected after contact with people with COVID-19, including owners, caretakers, or others who were in close contact."
+      ]
     },
     {
       "tag": "testing_results",
@@ -905,7 +977,9 @@
         "Do my test results come in the mail?",
         "test outcomes?"
       ],
-      "responses": ["It should generally take four to six hours for Covid-19 RTPCR test, if the test report hasn't arrived in 24hrs contact the respective testing facilities"]
+      "responses": [
+        "It should generally take four to six hours for Covid-19 RTPCR test, if the test report hasn't arrived in 24hrs contact the respective testing facilities"
+      ]
     },
     {
       "tag": "greeting",
@@ -918,7 +992,7 @@
         "Hi",
         "What's up"
       ],
-      "responses": ["Hello", "Hey", "Hi", "What's up","Greetings!!"]
+      "responses": ["Hello", "Hey", "Hi", "What's up", "Greetings!!"]
     },
     {
       "tag": "aboutvirus_incubation_period",
@@ -933,7 +1007,9 @@
         "How long are people infected with COVID-19 before they are symptomatic?",
         "How long before I experience covid-19 symptons?"
       ],
-      "responses": ["On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days."]
+      "responses": [
+        "On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days."
+      ]
     },
     {
       "tag": "masks_protection",
@@ -952,7 +1028,9 @@
         "I often travel by public transport. Should I wear a respirator?",
         "Do I have to wear a respirator?"
       ],
-      "responses": ["Face masks combined with other preventive measures, such as getting vaccinated, frequent hand-washing and physical distancing, can help slow the spread of the virus that causes COVID-19."] 
+      "responses": [
+        "Face masks combined with other preventive measures, such as getting vaccinated, frequent hand-washing and physical distancing, can help slow the spread of the virus that causes COVID-19."
+      ]
     },
     {
       "tag": "covid_mortality_rate_likelihood",
@@ -970,7 +1048,9 @@
         "will i die from covid-19",
         "Will I die if I get coronavirus?"
       ],
-      "responses": ["According to the World Health Organization, the mortality rate of COVID-19 is around 1 in 358 deaths."]
+      "responses": [
+        "According to the World Health Organization, the mortality rate of COVID-19 is around 1 in 358 deaths."
+      ]
     },
     {
       "tag": "goodbye",
@@ -979,6 +1059,25 @@
         "See you later, thanks for visiting",
         "Have a nice day",
         "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "lungs",
+      "patterns": [
+        "i want to check my lung report", 
+        "can i check my lung report",
+        "results of lungs x-ray",
+        "results of lung test",
+        "report of lung xray",
+        "report of lungs test",
+        "report of lung",
+        "lungs report",
+        "please check my lungs",
+        "can you check my lung report",
+        "lungs"
+      ],
+      "responses": [
+        "Checking!"
       ]
     }
   ]
