@@ -4,6 +4,9 @@
       "tag": "quarantine_visits",
       "patterns": [
         "Can my friends visit me?",
+        "quarintine visits",
+        "visiting during quarintine",
+        "meet others during quarintine",
         "Can someone come see me during quarantine?",
         "Is anyone allowed to visit during quarantine?",
         "What is a safe distance when someone brings me groceries?",
@@ -19,6 +22,8 @@
       "patterns": [
         "are the local parks open?",
         "am I safe outside?",
+        "go outside",
+        "outside if positive",
         "What parks are open?",
         "can i go to park",
         "Can I go to the gym or should I avoid it?",
@@ -41,6 +46,9 @@
       "patterns": [
         "How is a pandemic different from an epidemic?",
         "What is a pandemic?",
+        "pandemic meaning",
+        "pandemic definition",
+        "explain pandemic",
         "What does a pandemic mean?",
         "The WHO has declared a pandemic in the world. What does this mean?"
       ],
@@ -71,6 +79,8 @@
       "tag": "quarantine_living_alone",
       "patterns": [
         "Am I allowed to go to my garden in quarantine?",
+        "what to do while alone",
+        "quarintine living alone",
         "Can I go shopping when I'm in quarantine?",
         "Can I order food while in quarantine?",
         "If I am in quarantine, can I go for walks?",
@@ -94,6 +104,8 @@
         "i have a fever. should i go to the hospital?",
         "I have a cough but am breathing fine, should I go to the hospital or wait?",
         "I am coughing.  Should I call my doctor?",
+        "i feel sick, doctor",
+        "help me find a doctor",
         "how do i know whether to go to the doctor?",
         "Do I have to go to the hospital if I get COVID",
         "If I think I have COVID-19, should I see my Dr?",
@@ -163,6 +175,8 @@
       "tag": "general_help",
       "patterns": [
         "I'm afraid",
+        "please help",
+        "help me",
         "I need help",
         "Can you help me?",
         "I do not know what to do",
@@ -229,6 +243,8 @@
       "patterns": [
         "I live in an apartment with my girlfriend, but I am under quarantine now.  What should I do?",
         "How should I quarantine if I live with other people?",
+        "quarintine with others",
+        "family quarintine",
         "How can I quarantine if I have family living with me?",
         "How am I supposed to be quarantined when I live with other people?",
         "What if I have a roommate and I'm put under quarantine?",
@@ -250,6 +266,7 @@
         "I'm a medical student and I want to get involved. How can I help?",
         "I want to volunteer",
         "Volunteering",
+        "I want to volunteer",
         "contribute to fighting covid",
         "I want to help those at high risk with shopping. Where can I find information on how to help?"
       ],
@@ -273,6 +290,9 @@
         "Should I change my travel plans?",
         "Can I travel?",
         "I just travelled. What do I do?",
+        "travelling right now",
+        "travelling guidelines",
+        "travelling is fun",
         "do i need to stay home"
       ],
       "responses": [
@@ -301,6 +321,7 @@
         "I heard about a medication for coronavirus treatment",
         "How to treat covid?",
         "best vitamin to take",
+        "treatment for covid",
         "Can I lower my temperature using medication?",
         "what medicines work best",
         "How do we treat covid?",
@@ -315,6 +336,7 @@
       "patterns": [
         "How long will I feel terrible?",
         "how long does the virus last?",
+        "I am positive, how long",
         "how long does the virus last",
         "How long does the disease last?",
         "How long does the coronavirus last?",
@@ -324,6 +346,8 @@
         "how long does it last",
         "How long does COVID-19 last?",
         "how long does coronavirus last",
+        "duration of covid-19",
+        "covid-19 duration",
         "How long do I need to quarantine before I no longer can transmit the virus?",
         "how long can I expect to be sick?"
       ],
