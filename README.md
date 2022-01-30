@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!--[![Product Name Screen Shot][product-screenshot]](https://github.com/RadhikaChhabra17/Tri-nit-hackathon/)-->
+[Product Name Screen Shot][product-screenshot]](https://github.com/RadhikaChhabra17/Tri-nit-hackathon/img/screenshot.png)
 
 A mutipurpose chatbot that helps you find information about Covid-19.
 
