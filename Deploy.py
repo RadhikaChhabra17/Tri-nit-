@@ -41,12 +41,10 @@ class ChatBot:
         self.text_widget.place(relheight = 0.745, relwidth = 1, rely = 0.08)
         self.text_widget.configure(cursor = "arrow", state = DISABLED)
 
-        # scroll bar
         # scrollbar = Scrollbar(self.window)
         # scrollbar.place(relheight = 1, relx = 0.96)
         # scrollbar.configure(command = self.text_widget.yview)
         
-        # bottom label
         bottom_label = Label(self.window, bg = BG_GRAY, height = 80)
         bottom_label.place(relwidth = 1, rely = 0.825)
         
