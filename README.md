@@ -101,7 +101,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Video Description:
 
--[Video](https://drive.google.com/file/d/1lXkDRip2QP8IaD5rq5qIWOYYQWGHhcBW/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1lXkDRip2QP8IaD5rq5qIWOYYQWGHhcBW/view?usp=sharing)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
