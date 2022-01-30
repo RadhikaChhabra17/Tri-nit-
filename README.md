@@ -118,3 +118,4 @@ Don't forget to give the project a star! Thanks again!
 [stars-url]: https://github.com/CommanderAstern/BasicFormWebdev/stargazers
 [issues-url]: https://github.com/CommanderAstern/BasicFormWebdev/issues
 [product-screenshot]: img/screenshot.png
+[report]: ./Report.pdf
