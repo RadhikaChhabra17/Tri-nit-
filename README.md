@@ -71,7 +71,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/CommanderAstern/BasicFormWebdev.git
+   git clone https://github.com/RadhikaChhabra17/Tri-nit-hackathon.git
    ```
 That is it for now!
 <p align="right">(<a href="#top">back to top</a>)</p>
