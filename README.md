@@ -73,7 +73,14 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/RadhikaChhabra17/Tri-nit-hackathon.git
    ```
-That is it for now!
+2. Install dependencies
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run Deploy.py
+   ```sh
+   python deploy.py
+   ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
