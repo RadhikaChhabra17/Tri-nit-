@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Product Name Screen Shot][product-screenshot]](https://github.com/RadhikaChhabra17/Tri-nit-hackathon/img/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/RadhikaChhabra17/Tri-nit-hackathon/)
 
 A mutipurpose chatbot that helps you find information about Covid-19.
 
@@ -117,4 +117,4 @@ Don't forget to give the project a star! Thanks again!
 [forks-url]: https://github.com/CommanderAstern/BasicFormWebdev/network/members
 [stars-url]: https://github.com/CommanderAstern/BasicFormWebdev/stargazers
 [issues-url]: https://github.com/CommanderAstern/BasicFormWebdev/issues
-[product-screenshot]: img/screenshot.PNG
+[product-screenshot]: img/screenshot.png
